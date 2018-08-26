@@ -1,2 +1,2 @@
-# Ray.github.io
+# RuinousCheng.github.io
 I think I need a blog
