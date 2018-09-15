@@ -17,7 +17,7 @@ I think I need a blog
 存放路由文件
 ### views
 存放模块文件
-### app.js
+### index.js
 程序主文件
 ### package.json
 项目信息
