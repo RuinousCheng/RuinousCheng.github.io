@@ -3,4 +3,9 @@
   You're witnessing my growth
   <br> ✧*｡٩(ˊᗜˋ*)و✧*｡
 </p>
+
+<% posts.forEach(function (post) { %>
+  <%- include('components/post-content', { post: post }) %>
+<% }) %>
+
 <%- include('footer') %>
