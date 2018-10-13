@@ -74,3 +74,6 @@ Standard 规范,主要特点是不加分号
   1. 页面  GET /comments
   2. 创建 POST /comments
   3. 删除  GET /comments/:id/remove
+
+### 后续可添加功能
+1. 自动获取GitHub账号登陆
